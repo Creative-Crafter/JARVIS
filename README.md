@@ -23,7 +23,7 @@ Processes commands and provides intelligent responses directly in the console!
 2. Download all three AIs.
    <a href="https://ollama.com/ALIENTELLIGENCE/jarvisv2" target="_blank" style="text-decoration:none;">
   <div style="display:inline-block;padding:10px 20px;background:white;color:black;border-radius:8px;">
-    ALIENTELLIGENCE/jarvisv2
+    jarvisv2
   </div>
    </a>
    <a href="https://ollama.com/library/deepseek-v2:16b" target="_blank" style="text-decoration:none;">
