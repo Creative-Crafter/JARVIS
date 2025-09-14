@@ -25,7 +25,7 @@ Processes commands and provides intelligent responses directly in the console!
   <div style="display:inline-block;padding:10px 20px;background:white;color:black;border-radius:8px;">
     ALIENTELLIGENCE/jarvisv2
   </div>
-</a>
+   </a>
    <a href="https://ollama.com/library/deepseek-v2:16b" target="_blank" style="text-decoration:none;">
      <div style="display:inline-block;padding:10px 20px;background:white;color:black;border-radius:8px;">
        deepseek-v2:16b
