@@ -20,18 +20,35 @@ Processes commands and provides intelligent responses directly in the console!
 ## 🕹️ How to Use
 
 1. Clone or download the repository.
-2. Make sure Python 3.8+ is installed.
-3. Install required dependencies (if any) using:
+2. Download all three AIs.
+   <a href="https://ollama.com/ALIENTELLIGENCE/jarvisv2" target="_blank" style="text-decoration:none;">
+  <div style="display:inline-block;padding:10px 20px;background:white;color:black;border-radius:8px;">
+    ALIENTELLIGENCE/jarvisv2
+  </div>
+</a>
+   <a href="https://ollama.com/library/deepseek-v2:16b" target="_blank" style="text-decoration:none;">
+     <div style="display:inline-block;padding:10px 20px;background:white;color:black;border-radius:8px;">
+       deepseek-v2:16b
+     </div>
+   </a>
+   <a href="https://ollama.com/library/deepseek-coder-v2:16b" target="_blank" style="text-decoration:none;">
+     <div style="display:inline-block;padding:10px 20px;background:white;color:black;border-radius:8px;">
+       deepseek-coder-v2:16b
+     </div>
+   </a>
+
+3. Make sure Python 3.8+ is installed.
+4. Install required dependencies (if any) using:
 
    ```bash
    pip install -r requirements.txt
    ```
-4. Run `main.py`:
+5. Run `main.py`:
 
    ```bash
    python main.py
    ```
-5. Type your commands in the console. Type `q` to quit.
+6. Type your commands in the console. Type `q` to quit.
 
 ## 💡 Examples
 
@@ -59,3 +76,7 @@ The logo featured in this project is an original design inspired by futuristic a
 ---
 
 Have fun using Jarvis! 🎉
+
+
+
+
